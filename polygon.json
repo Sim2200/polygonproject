@@ -1,0 +1,221 @@
+{
+    "id": "polygon",
+    "description": "Polygon is a multi-chain scaling solution for Ethereum-compatible blockchain networks. It aims to enhance scalability and bring a seamless experience to the Ethereum ecosystem.",
+    "tags": [
+        "pos",
+        "sidechain",
+        "ethereum ecosystem",
+        "layer 2",
+        "eip-1559"
+    ],
+    "coin_details": {
+        "name": "Polygon",
+        "symbol": "MATIC",
+        "logo": "logo/polygon.png",
+        "max_supply": "∞"
+    },
+    "chain_details": [
+        {
+            "name": "Language",
+            "type": "Solidity"
+        },
+        {
+            "name": "Consensus",
+            "type": "Proof of Stake"
+        },
+        {
+            "name": "Chain Layer",
+            "type": "L2"
+        },
+        {
+            "name": "Chain Type",
+            "type": "EVM"
+        }
+    ],
+    "official_links": {
+        "website": "https://polygon.technology/",
+        "whitepaper": "https://polygon.technology/whitepaper/",
+        "documentation": "https://docs.polygon.technology/",
+        "forum": "https://forum.polygon.technology/",
+        "github": "https://github.com/maticnetwork"
+    },
+    "social_platforms": {
+        "discord": "https://discord.gg/polygon",
+        "twitter": "https://twitter.com/0xPolygon",
+        "reddit": "https://www.reddit.com/r/maticnetwork/",
+        "community": "https://polygon.technology/community",
+        "coinmarketcap_community": "https://coinmarketcap.com/currencies/polygon/",
+        "twitter_hashtag": "https://twitter.com/hashtag/Polygon"
+    },
+    "data_aggregator": [
+        {
+            "name": "CoinMarketCap",
+            "url": "https://coinmarketcap.com/currencies/polygon/"
+        },
+        {
+            "name": "CoinGecko",
+            "url": "https://www.coingecko.com/en/coins/polygon-matic"
+        },
+        {
+            "name": "DefiLlama",
+            "url": "https://defillama.com/chain/Polygon"
+        },
+        {
+            "name": "DappRadar",
+            "url": "https://dappradar.com/chain/polygon"
+        },
+        {
+            "name": "CryptoCompare",
+            "url": "https://www.cryptocompare.com/coins/matic/overview"
+        },
+        {
+            "name": "TradingView",
+            "url": "https://www.tradingview.com/symbols/MATICUSD/"
+        },
+        {
+            "name": "CoinDesk",
+            "url": "https://www.coindesk.com/price/polygon/"
+        },
+        {
+            "name": "Investing",
+            "url": "https://www.investing.com/crypto/polygon/matic-usd"
+        },
+        {
+            "name": "MarketWatch",
+            "url": "https://www.marketwatch.com/investing/cryptocurrency/maticusd"
+        },
+        {
+            "name": "Yahoo Finance",
+            "url": "https://finance.yahoo.com/quote/MATIC-USD"
+        }
+    ],
+    "explorers": [
+        {
+            "name": "Polygonscan",
+            "url": "https://polygonscan.com/"
+        },
+        {
+            "name": "Maticvigil",
+            "url": "https://maticvigil.com/"
+        },
+        {
+            "name": "Polygonscan",
+            "url": "https://polygonscan.com/"
+        },
+        {
+            "name": "Matic Explorer",
+            "url": "https://explorer.matic.network/"
+        },
+        {
+            "name": "Matic Explorer 2",
+            "url": "https://explorer2.matic.network/"
+        },
+        {
+            "name": "Polygon Explorer",
+            "url": "https://polygon-explorer-mainnet.chainstacklabs.com/"
+        },
+        {
+            "name": "Dune Analytics",
+            "url": "https://duneanalytics.com/chain/polygon"
+        },
+        {
+            "name": "Nansen",
+            "url": "https://app.nansen.ai/"
+        },
+        {
+            "name": "Zapper",
+            "url": "https://zapper.fi/"
+        },
+        {
+            "name": "DeBank",
+            "url": "https://debank.com/"
+        }
+    ],
+    "bridges": [
+        {
+            "name": "Hop Protocol",
+            "url": "https://hop.exchange/"
+        },
+        {
+            "name": "Connext",
+            "url": "https://connext.network/"
+        },
+        {
+            "name": "Wormhole",
+            "url": "https://wormhole.com/"
+        },
+        {
+            "name": "Stargate",
+            "url": "https://stargate.finance/"
+        },
+        {
+            "name": "Anyswap",
+            "url": "https://anyswap.exchange/"
+        },
+        {
+            "name": "xPollinate",
+            "url": "https://xpollinate.io/"
+        }
+    ],
+    "bounty": [
+        {
+            "name": "Bug Bounty Program",
+            "url": "https://docs.polygon.technology/docs/home/bounties/security"
+        }
+    ],
+    "grants": [
+        {
+            "name": "Polygon Grants Program",
+            "url": "https://polygon.technology/grants"
+        }
+    ],
+    "faucets": [
+        {
+            "name": "Polygon Faucet",
+            "url": "https://faucet.polygon.technology/"
+        },
+        {
+            "name": "Matic Faucet",
+            "url": "https://matic.supply/"
+        },
+        {
+            "name": "QuickNode",
+            "url": "https://faucet.quicknode.com/matic"
+        },
+        {
+            "name": "All That Node",
+            "url": "https://matic.supply/faucet/ethereum.dsrv"
+        },
+        {
+            "name": "Holesky PoW Faucet",
+            "url": "https://matic.supply/faucet/holesky"
+        }
+    ],
+    "rpcs": [
+        {
+            "name": "Chainlist",
+            "url": "https://chainlist.org/chain/137"
+        }
+    ],
+    "wallets": [
+        {
+            "name": "Wallet Finder",
+            "url": "https://polygon.technology/wallets/find-wallet"
+        },
+        {
+            "name": "Metamask",
+            "url": "https://metamask.io/"
+        },
+        {
+            "name": "Safe",
+            "url": "https://safe.global/"
+        },
+        {
+            "name": "Rainbow",
+            "url": "https://rainbow.me/"
+        },
+        {
+            "name": "Coinbase Wallet",
+            "url": "https://www.coinbase.com/wallet"
+        },
+        {
